@@ -17,6 +17,10 @@ h5, .card-title {
   margin-right: 1rem;
 }
 
+h4 {
+  text-align: left;
+}
+
 footer {
   background-color: #d7e3ff;
   color: white;
@@ -254,9 +258,23 @@ h1 + p:before{
 #books ul a {
     padding: 0.5rem;
     font-family: 'Source Code Pro', sans-serif;
+}
 
-  }
+#books ul a:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 18px;
+  color: blue;
+  text-decoration: none;
+}
+#development ul li:hover {
+  box-shadow: 0 4px 8px 0 rgba(193, 190, 190, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-weight: bold;
+}
 
+#courses ul li:hover {
+  box-shadow: 0 4px 8px 0 rgba(193, 190, 190, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-weight: bold;
+}
   /* .nav_brand:hover {
     content: 'ቅዱስ ዮሃንስ ሰንደቄ';
     color: rgb(0, 0, 0);
