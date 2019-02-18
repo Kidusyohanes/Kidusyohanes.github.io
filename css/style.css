@@ -232,10 +232,10 @@ strong {
   padding-top: 1rem;
 }
 
-.navbar-light .nav_brand:hover {
+/* .navbar-light .nav_brand:hover {
   content: 'ቅዱስ ዮሃንስ ሰንደቄ';
-  color: white;
-}
+  color: rgb(0, 0, 0);
+} */
 
 
 /* h1:hover + p:before{
