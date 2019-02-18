@@ -246,10 +246,10 @@ h1 + p:before{
   } */
 
 
-#mainNav:hover {
+/* #mainNav:hover {
     content: 'ቅዱስ ዮሃንስ ሰንደቄ';
     color: rgb(0, 0, 0);
-}
+} */
 
 #books ul a {
     padding: 0.5rem;
@@ -257,10 +257,10 @@ h1 + p:before{
 
   }
 
-  .nav_brand:hover {
+  /* .nav_brand:hover {
     content: 'ቅዱስ ዮሃንስ ሰንደቄ';
     color: rgb(0, 0, 0);
-  }
+  } */
 
 
   #visa_img {
