@@ -6,9 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
      <!-- Compiled and minified CSS -->
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> -->
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css" />
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    <link rel="stylesheet" href="css/style.css" />
 
     <title>Kidus Sendeke Portfolio</title>
 </head>
@@ -26,8 +24,7 @@
                         <a class="nav-link " href="about.html">about</a>
                       </li>
                       <li class="nav-item">
-                        <!-- <a class="nav-link " href="/resume.pdf">resume</a> -->
-                        <a href="https://docs.google.com/document/d/10djkA8DWQ61cHFEX4GgE7L8uqk7vMJ4U1_XlH5V3Ncc/edit?usp=sharing" target="_blank" class="nav-link">
+                        <a href="assets/resume.pdf" target="_blank" class="nav-link">
                             resume
                         </a>
                       </li>
@@ -37,13 +34,34 @@
           
                 <div class="jumbotron jumbotron-fluid "id="home">
                   <div class="container">
-                    <h1 class="display-3">Software Engineer</h1>
-                    <!-- <p class="lead">A web platform that connects students with
-                      their trusted friends and family to create a strong financial community to address student debt.</p> -->
-
+                    <h1 class="display-5">I am a software engineer studying 
+                      <a href="https://ischool.uw.edu/programs/informatics">Informatics</a> at 
+                      <br/> University of Washington, Seattle</h1> 
                     </div>
                 </div>
-          
+                <div class="container">
+                    <section id="projects">
+            
+                      <div class="titles">
+                        <h2>Experience</h2>
+                      </div>
+            
+                      <div class="row">
+                        <div class="card-deck">
+                          <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <img src="assets/visa.png" id="visa_img" class="card-img-top" alt="logo">
+                            <div class="card-body">
+                              <h5 class="card-title">Software Engineering Intern</h5>
+                              <p><small>June - Sep. 2018</small></p>
+                              <p class="card-text">Network processing's clearing and settlement team. Built an Angular application that tracks/sizes projects. Included a visualization feature to track progress and changes.</p>
+                              <p class="card-text">Technologies: Angular, D3, Git Version Control</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+
                 <div class="container">
                   <section id="projects">
           
@@ -52,31 +70,79 @@
                     </div>
           
                     <div class="row">
-                      <div class="col-lg-3">
-                        <img class="bd-placeholder-img rounded-circle" alt="" src="https://www.gravatar.com/avatar/329c17c44c22a447870f4a44dc058b4d?s=1000" width="100" height="100" focusable="false" role="img" aria-label="Placeholder: 140x140" /><title>Placeholder</title>
-                        <h5>Kidus Sendeke</h5>
-                        <p>Senior, Informatics</p>
-                        <a href="mailto:kiduss@uw.edu">kiduss@uw.edu</a><br />
-                        <a href="https://www.linkedin.com/in/kidus-sendeke/"><i className="fab fa-linkedin"></i></a>
+                      <div class="card-deck">
+                        <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                          <img src="assets/ahod.png" class="card-img-top" alt="logo">
+                          <div class="card-body">
+                            <h5 class="card-title">AHOD</h5>
+                            <p class="card-text">A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.</p>
+                            <p class="card-text"><a href="https://koma-uw.github.io/landing-page/" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                          </div>
+                        </div>
+                        <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <img src="assets/chores.png" class="card-img-top" alt="logo">
+                            <div class="card-body">
+                              <h5 class="card-title">Chores</h5>
+                              <p class="card-text">A website to help families handle chores around the house by insentivizing rewards and points for productivity.</p>
+                              <p class="card-text"><a href="https://pug-life-55e2e.firebaseapp.com" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                            </div>
+                          </div>
+                          <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                              <img src="assets/react_vis.png" class="card-img-top" alt="logo">
+                              <div class="card-body">
+                                <h5 class="card-title">Data Visualization</h5>
+                                <p class="card-text">A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.</p>
+                                <p class="card-text"><a href="http://students.washington.edu/kiduss/p3-Kidusyohanes/project3/index.html" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                              </div>
+                            </div>
+                            <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                <img src="assets/image_tracing.png" class="card-img-top" alt="logo">
+                                <div class="card-body">
+                                  <h5 class="card-title">Image Tracing</h5>
+                                  <p class="card-text">A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.</p>
+                                  <p class="card-text"><a href="http://students.washington.edu/kiduss/p2-Kidusyohanes/index.html" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                                </div>
+                              </div>
                       </div>
                     </div>
+
+
+                    <div class="row">
+                        <div class="card-deck">
+                          <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <img src="assets/incr_wa.png" class="card-img-top" alt="logo">
+                            <div class="card-body">
+                              <h5 class="card-title">Data analysis on Incarceration in Washington</h5>
+                              <p class="card-text">A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.</p>
+                              <p class="card-text"><a href="https://wjbarng.shinyapps.io/wa-ethnic-detention-2004-2013/" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                            </div>
+                          </div>
+                          <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                              <img src="assets/mass_sh.png" class="card-img-top" alt="logo">
+                              <div class="card-body">
+                                <h5 class="card-title">Mass shooting in the US, 2016</h5>
+                                <p class="card-text">A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.</p>
+                                <p class="card-text"><a href="https://info201-s17.github.io/a6-mapping-shootings-Kidusyohanes/" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                              </div>
+                            </div>
+                              <div class="card col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                  <img src="assets/trafficking.png" class="card-img-top" alt="logo">
+                                  <div class="card-body">
+                                    <h5 class="card-title">Human Trafficking Visual Analysis</h5>
+                                    <p class="card-text">A website that uses historical perspective to analizes human trafficking upto the current state.</p>
+                                    <p class="card-text"><a href="http://kiduss.wixsite.com/362portfolio2018" target="_blank"><small class="text-muted">Learn more</small></a></p>
+                                  </div>
+                                </div>
+                        </div>
+                      </div>
                   </section>
-          
-          
-                  <section id="contact">
-                    <h2 class="titles">CONTACT US</h2>
-                    <div class="content text-left">
-                
-                    </div>
-                  </section>
-          
                 
                 </div>
                 <footer class="page-footer font-small">
                         <div class="flex justify-center">
                                 <div class="px1">
                                     <a href="http://github.com/Kidusyohanes" target="_blank">
-                                        <i class="fa fa-github"></i>
+                                        <i class="fab fa-github"></i>
                                     </a>
                                 </div>
                     
@@ -91,8 +157,7 @@
                                     </a>
                                 </div>
                             </div>
-                    <div class="footer-copyright text-center py-3"><p>© 2019 Copyright - <a href="https://github.com/Kidusyohanes"> Kidus Sendeke</a></p>
-                      <!-- <a href="https://github.com/orgs/KOMA-UW/dashboard"> Kidus Sendeke</a> -->
+                    <div class="footer-copyright text-center py-3"><p>© 2019 Copyright - Kidus Sendeke</p>
                     </div>
                   </footer>
               </div>
