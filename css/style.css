@@ -31,6 +31,10 @@ footer {
   margin-right: 0rem;
 }
 
+a {
+  font-family: 'Source Code Pro', sans-serif;
+}
+
 .fa-linkedin, .fa-github, .fa-paper-plane{
   font-size: 2em;
 }
@@ -288,12 +292,22 @@ h1 + p:before{
 .card:hover {
   box-shadow: 0 4px 8px 0 rgba(193, 190, 190, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
 .card-title {
   text-align: center;
 }
 
+.card {
+  border: 0px solid rgba(0,0,0,.125);
+  padding: 0;
+}
+
 .card-img-top {
   padding-top: .8em;
+}
+
+#home {
+  margin-bottom: 25rem;
 }
 
 #development ul li, 
@@ -301,7 +315,13 @@ h1 + p:before{
   font-family: 'Source Code Pro', sans-serif;
 }
 
-  #visa_img {
+#visa_img {
     width: 100%;
-    padding-top: 1em;    
-  }
+    padding-top: 1em;   
+    height: 50%; 
+}
+
+.exper_card {
+  /* height: 80%; */
+  padding: 0;
+}
