@@ -126,7 +126,7 @@ nav {
 section {
   overflow-y: hidden;
   z-index: 0; 
-  padding: 2rem;
+  padding-bottom: 2rem;
   /* padding-top:8rem;  */
 } 
 
@@ -205,14 +205,13 @@ strong {
   /* background-image:linear-gradient(to left,#47a9ff,#dbdf00b3); */
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  padding-bottom: 2rem;
+  /* padding-bottom: 2rem; */
   margin-bottom: 0rem;
 }
 
 .jumbotron-fluid {
   margin-bottom: 0rem;
 }
-
 
 .lead {
   color: white;
@@ -300,6 +299,7 @@ h1 + p:before{
 .card {
   border: 0px solid rgba(0,0,0,.125);
   padding: 0;
+  /* box-shadow: 0 4px 8px 0 rgba(193, 190, 190, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 
 .card-img-top {
