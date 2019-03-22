@@ -124,10 +124,8 @@ nav {
 }
 
 section {
-  overflow-y: hidden;
   z-index: 0; 
   padding-bottom: 2rem;
-  /* padding-top:8rem;  */
 } 
 
 .logo_imgs img {
