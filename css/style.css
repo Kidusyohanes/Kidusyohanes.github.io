@@ -316,10 +316,8 @@ h1 + p:before{
 #visa_img {
     width: 100%;
     padding-top: 1em;   
-    height: 50%; 
 }
 
 .exper_card {
-  /* height: 80%; */
   padding: 0;
 }
