@@ -304,7 +304,12 @@ h1 + p:before{
   padding-top: .8em;
 }
 
-#home {
+.clique {
+  width: 100%;
+  height: 100%;
+}
+
+#home { 
   margin-bottom: 25rem;
 }
 
