@@ -1,0 +1,236 @@
+{
+    "projects" : [
+        [
+            { 
+                "title":"Clique",
+                "description":"A web platform that connects students with their trusted friends and family to create a strong financial community to address student debt.",
+                "link":"https://koma-uw.github.io/landing-page/",
+                "img":"assets/Clique.png",
+                "badge":"badge-success",
+                "badge_status":"Capstone"
+            },
+            { 
+                "title":"Chores",
+                "description":"A website to help families handle chores around the house by insentivizing rewards and points for productivity.",
+                "link":"https://pug-life-55e2e.firebaseapp.com/",
+                "img":"assets/chores.png"
+            },
+            { 
+                "title":"Data Visualization",
+                "description":"A React app that utilizes publicly available data to visualizes music trends and greatest hits.",
+                "link":"http://students.washington.edu/kiduss/p3-Kidusyohanes/project3/index.html",
+                "img":"assets/react_vis.png"
+            },
+            { 
+                "title":"Image Tracing",
+                "description":"An image tracing tool that helps users trace any image live and download the results. Tools can be used to develope drawing skills.",
+                "link":"http://students.washington.edu/kiduss/p2-Kidusyohanes/index.html",
+                "img":"assets/image_tracing.png"
+            }
+        ],
+        [
+            { 
+            "title":"Data analysis on Incarceration in Washington",
+            "description":"An analysis of incarceration in Washington state between 2004-2013. Race is used to analyse and visualize this dataset.",
+            "link":"https://wjbarng.shinyapps.io/wa-ethnic-detention-2004-2013/",
+            "img":"assets/incr_wa.png"
+            },
+            { 
+                "title":"Mass shooting in the US, 2016",
+                "description":"A visualization of mass shooting data in the United States in 2016s. This web-page displays which cities had the highest and lowest mass shooting incidents.",
+                "link":"https://info201-s17.github.io/a6-mapping-shootings-Kidusyohanes/",
+                "img":"assets/mass_sh.png"
+            },
+            { 
+                "title":"Human Trafficking Visual Analysis",
+                "description":"A website that uses historical perspective to analizes human trafficking upto the current state.",
+                "link":"https://kiduss.wixsite.com/362portfolio2018",
+                "img":"assets/trafficking.png"
+            }
+        ]
+    ],
+    "skills":[
+            { 
+                "Development" :[
+                    {
+                        "language":"Angular CLI",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    }, 
+                    {
+                        "language":"React",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"JavaScript Vanilla",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"TypeScript",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"Node.js",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"Django",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"Golang",
+                        "status":"Familiar",
+                        "badge":"badge-primary"
+                    },
+                    {
+                        "language":"Java",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"Git - Version Control",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    },
+                    {
+                        "language":"Docker",
+                        "status":"Familiar",
+                        "badge":"badge-primary"
+                    },
+                    {
+                        "language":"Kubernetes",
+                        "status":"In-progress",
+                        "badge":"badge-warning"
+                    },
+                    {
+                        "language":"AWS",
+                        "status":"Familiar",
+                        "badge":"badge-primary"
+                    },
+                    {
+                        "language":"MySQL",
+                        "status":"Proficient",
+                        "badge":"badge-success"
+                    }
+                ]
+            },
+        {
+            "Data Science":[
+                {
+                    "language":"R",
+                    "status":"Proficient",
+                    "badge":"badge-success"
+                },
+                {
+                    "language":"Python",
+                    "status":"Proficient",
+                    "badge":"badge-success"
+                }
+            ]
+        },
+        {
+            "Information Assurance & Security":[
+                {
+                    "language":"Kali Linux",
+                    "status":"Familiar",
+                    "badge":"badge-primary"
+                },
+                {
+                    "language":"Wireshark",
+                    "status":"Familiar",
+                    "badge":"badge-primary"
+                }
+            ]
+        }
+    ],
+    "books":[
+        { 
+            "title":"ግርምተ ሳይቴክ",
+            "author":"Solomon Kassa",
+            "link":"https://www.amazon.com/Girimte-SciTech-Wonder-Civilization-Yesterday/dp/1543935869/ref=sr_1_1?ie=UTF8&qid=1550434427&sr=8-1&keywords=solomon+kassa"
+        },
+        {
+            "title":"Permanent Record",
+            "author": "Edward Snowden",
+            "link": "https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238/ref=asc_df_1250237238/?tag=hyprod-20&linkCode=df0&hvadid=385115590018&hvpos=1o1&hvnetw=g&hvrand=3003933946256352446&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=&hvtargid=aud-802037562948:pla-817635065886&psc=1&tag=&ref=&adgrpid=78287769493&hvpone=&hvptwo=&hvadid=385115590018&hvpos=1o1&hvnetw=g&hvrand=3003933946256352446&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=&hvtargid=aud-802037562948:pla-817635065886"
+        },
+        { 
+            "title":"The Power of Habit",
+            "author":"Charles Duhigg",
+            "link":"https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/ref=sr_1_3?ie=UTF8&qid=1550435148&sr=8-3&keywords=habit"
+        },
+        { 
+            "title":"Alif the Unseen",
+            "author":"G. Willow Wilson",
+            "link":"https://www.amazon.com/Alif-Unseen-G-Willow-Wilson/dp/0802121225/ref=sr_1_1?ie=UTF8&qid=1550439793&sr=8-1&keywords=alif+the+unseen+by+g.+willow+wilson"
+        },
+        {
+            "title":"Algorithms to Live By",
+            "author":"Brian Christian & Tom Griffiths",
+            "link":"https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365"
+        }
+    ],
+    "courses":[
+        {
+            "course":"CSE 373: Data Structures & Algorithms",
+            "link":"https://courses.cs.washington.edu/courses/cse373/19au/"
+        },
+        {
+            "course":"INFO 498: Software Architecture",
+            "link":"https://canvas.uw.edu/courses/1100150"
+        },
+        {
+            "course":"INFO 314: Computer Networks and Distributed Applications",
+            "link":"https://canvas.uw.edu/courses/1118280/assignments/syllabus"
+        },
+        {
+            "course":"INFO 330: Introduction to Relational Database Management Systems",
+            "link":"https://myplan.uw.edu/course/#/courses/INFO330"
+        },
+        {
+            "course":"INFO 340: Client-Side Web Development",
+            "link":"https://info340.github.io/"
+        },
+        {
+            "course":"INFO 441: Server-Side Web Development",
+            "link":"https://drstearns.github.io/tutorials/"
+        },
+        {
+            "course":"INFO 370: Core Methods in Data Science",
+            "link":"https://github.com/info-370/welcome"
+        },
+        {
+            "course":"INFO 371: Advance Methods in Data Science",
+            "link":""
+        },
+        {
+            "course":"INFO 461: Cooperative Software Design",
+            "link":"https://andrewbegel.com/info461/"
+        },
+        {
+            "course":"MATH 124: Calculus With Analytic Geometry I",
+            "link":"https://sites.math.washington.edu/~m124/"
+        },
+        {
+            "course":"MATH 125: Calculus With Analytic Geometry II",
+            "link":"https://sites.math.washington.edu/~m125/"
+        },
+        {
+            "course":"MATH 126: Calculus With Analytic Geometry III",
+            "link":"https://sites.math.washington.edu/~m126/"
+        },
+        {
+            "course":"PHYS 121: Mechanics",
+            "link":"https://phys.washington.edu/courses/2019/winter/phys/121/as"
+        },
+        {
+            "course":"STAT 221: Statistical Concepts and Methods for the Social Sciences",
+            "link":"https://www.stat.washington.edu/course/stat-221"
+        }
+    ]
+}

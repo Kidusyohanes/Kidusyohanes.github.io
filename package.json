@@ -1,0 +1,22 @@
+{
+  "name": "kidusyohanes.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kidusyohanes/Kidusyohanes.github.io.git"
+  },
+  "author": "Kidus Sendeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kidusyohanes/Kidusyohanes.github.io/issues"
+  },
+  "homepage": "https://github.com/Kidusyohanes/Kidusyohanes.github.io#readme",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
