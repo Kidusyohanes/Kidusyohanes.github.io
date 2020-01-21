@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 // load the data using variouse methods 
 // change the local host to https://kidus.me 
@@ -113,7 +113,7 @@ function displayBooks(book) {
     let auth = document.createElement('p');
     auth.setAttribute('class','card-text');
 
-    auth.innerHTML = 'by ' + book.author;
+    auth.innerHTML = book.author;
 
     li.appendChild(title);
     li.appendChild(auth);

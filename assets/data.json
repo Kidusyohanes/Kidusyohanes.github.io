@@ -1,4 +1,21 @@
 {
+    "experiences" :[   
+            {   "order" : 1,
+                "title":"Software Engineering Intern",
+                "description":"Developed web application using Angular CLI to track and size projects and applications within Visa Inc. \n Created dashboard with D3.js and Charts.js to visualize progress on projects and applications. \n This application helped managers learn about projects, application and better allocate resources to them",
+                "time" : "06 - 09/2018",
+                "link":"https://usa.visa.com/",
+                "img":"assets/visa.png"
+            },
+            { 
+                "order" : 2,
+                "title":"Software Engineer",
+                "description":"Write test automation for 3 internal applications using robot-framework within Visa Inc to deliver 1 - click test automation \n  Write utility scripts to solve data type conversion from mainframe files to modern data types and reduced file conversion process with 50% \n  Documented code architecture and software setup process to promote education and training of newly hired employees",
+                "time":"09/2019 - Present",
+                "link":"https://usa.visa.com/",
+                "img":"assets/visa.png"
+            }
+    ],
     "projects" : [
         [
             { 
@@ -150,9 +167,9 @@
     ],
     "books":[
         { 
-            "title":"ግርምተ ሳይቴክ",
-            "author":"Solomon Kassa",
-            "link":"https://www.amazon.com/Girimte-SciTech-Wonder-Civilization-Yesterday/dp/1543935869/ref=sr_1_1?ie=UTF8&qid=1550434427&sr=8-1&keywords=solomon+kassa"
+            "title":"Deep Work",
+            "author":"Cal Newport",
+            "link":"https://www.amazon.com/gp/product/1455586692/ref=dbs_a_def_rwt_bibl_vppi_i0"
         },
         {
             "title":"Permanent Record",
