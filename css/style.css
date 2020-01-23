@@ -249,28 +249,23 @@ strong {
   margin-right: auto;
 }
 
-/* .jobs :first {
-  margin-top: 10rem;
-} */
 
-/* .navbar-light .nav_brand:hover {
-  content: 'ቅዱስ ዮሃንስ ሰንደቄ';
-  color: rgb(0, 0, 0);
-} */
-
-
-/* h1:hover + p:before{
-  content:'Ohhh hover h1';
+/*icons */
+@media only screen and (max-width: 600px) {
+  .icons {
+    display: inline;
   }
-h1 + p:before{
-  content:'h1 no hover ';
-  } */
+  .titles > h2 {
+    display: none;
+  }
+}
 
+@media only screen and (min-width: 600px) {
+  .icons {
+    display: none;
+  }
+}
 
-/* #mainNav:hover {
-    content: 'ቅዱስ ዮሃንስ ሰንደቄ';
-    color: rgb(0, 0, 0);
-} */
 
 #books ul a {
     padding: 0.5rem;
