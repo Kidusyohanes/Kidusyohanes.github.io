@@ -2,7 +2,7 @@
 
 // load the data using variouse methods 
 // change the local host to https://kidus.me 
-fetch('https://kidus.me/assets/data.json').then(res => {
+fetch('http://127.0.0.1:8080/assets/data.json').then(res => {
     console.log("Connected")
     return(res.json());
 }).then(data => {
