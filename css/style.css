@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
 @import url('https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro');
 
@@ -432,3 +431,48 @@ strong {
 .number {
   font-size: 14px;
 }
+
+/* Animation */
+/* .anim-typewriter{
+  animation: typewriter 2s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
+} */
+
+/* Animation */
+/* .anim-typewriter2{
+  animation: typewriter 4s steps(44) 2s 1 normal both,  blinkTextCursor 500ms steps(44) infinite normal;
+} */
+
+/* .anim-typewriter3{
+    animation: typewriter 6s steps(44) 3s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
+} */
+
+/* @keyframes typewriter{
+  from{width: 0;}
+  to{width: 30em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+} */
+
+
+
+/* DARK THEME toggle 
+-- all backgrounds should be black and all text/button should be white */
+/* 
+.dark-theme {
+  --background: var(--gray6);
+  --text-color: var(--gray2);
+  --h-color: #fff;
+  --nav-shadow: 4px 0 10px -3px #010101;
+  --card-shadow: 0 4px 8px rgba(0,0,0,0.38);
+  --toc-shadow: rgba(0,0,0,0.7) 0px 10px 20px 0px;
+  --nav-bg: var(--gray5);
+  --tag-bg: var(--gray4);
+  --code-bg: #22262f;
+  --card-bg: var(--gray5);
+  --overlay-bg: rgba(0,0,0,0.9);
+  --h-border: 2px dashed var(--nav-bg);
+  --card-radius: 0.25em;
+  transition: all .3s ease;
+} */
