@@ -176,13 +176,13 @@
             "Software Testing & Automation":[
                 {
                     "language":"Robot Framework",
-                    "status":"Familiar",
-                    "badge":"badge-primary"
+                    "status":"Proficient",
+                    "badge":"badge-success"
                 },
                 {
                     "language":"Selenium",
-                    "status":"Familiar",
-                    "badge":"badge-primary"
+                    "status":"Proficient",
+                    "badge":"badge-success"
                 }
             ]
         }
