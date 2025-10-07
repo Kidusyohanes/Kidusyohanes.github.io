@@ -9,6 +9,14 @@
             },
             { 
                 "order" : 2,
+                "title":"Teaching Assistant",
+                "description":"Write test automation for 3 internal applications using robot-framework within Visa Inc to deliver 1 - click test automation \n  Write utility scripts to solve data type conversion from mainframe files to modern data types and reduced file conversion process with 50% \n  Documented code architecture and software setup process to promote education and training of newly hired employees",
+                "time":"09/2019 - Present",
+                "link":"https://usa.visa.com/",
+                "img":"assets/visa.png"
+            },
+            { 
+                "order" : 3,
                 "title":"Software Engineer",
                 "description":"Write test automation for 3 internal applications using robot-framework within Visa Inc to deliver 1 - click test automation \n  Write utility scripts to solve data type conversion from mainframe files to modern data types and reduced file conversion process with 50% \n  Documented code architecture and software setup process to promote education and training of newly hired employees",
                 "time":"09/2019 - Present",
@@ -125,7 +133,7 @@
                         "badge":"badge-warning"
                     },
                     {
-                        "language":"AWS",
+                        "language":"AWS [EC2]",
                         "status":"Familiar",
                         "badge":"badge-primary"
                     },
@@ -161,6 +169,20 @@
                     "language":"Wireshark",
                     "status":"Familiar",
                     "badge":"badge-primary"
+                }
+            ]
+        },
+        {
+            "Software Testing & Automation":[
+                {
+                    "language":"Robot Framework",
+                    "status":"Proficient",
+                    "badge":"badge-success"
+                },
+                {
+                    "language":"Selenium",
+                    "status":"Proficient",
+                    "badge":"badge-success"
                 }
             ]
         }
