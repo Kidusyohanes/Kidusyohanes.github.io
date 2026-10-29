@@ -1,0 +1,5 @@
+{
+  "_howto": "Add one object per piece. src = full-size image (repo path like assets/art/foo.webp, or a Cloudinary URL). thumb is optional (~800px). category groups the filter buttons, e.g. Painting, Photography, Aerial. The Arts gallery on the home page appears automatically once this list has at least one item.",
+  "items": [
+  ]
+}

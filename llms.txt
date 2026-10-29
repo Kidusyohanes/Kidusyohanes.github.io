@@ -1,0 +1,29 @@
+# Kidus Sendeke
+
+> Software engineer in Seattle, WA. Builds distributed systems and AI-enabled applications. Formerly Microsoft (M365 Substrate) and Visa. Founder of 50 Limes (፶ ሎሚ), a product studio. M.S. Computer Science (Data Science) candidate at Seattle University, graduating Spring 2027.
+
+## Current
+- Software Engineer (contract via Blueprint Technologies) at Microsoft Philanthropies: full-stack, AI-enabled applications in C#/.NET, TypeScript, Azure OpenAI and the Microsoft Bot Builder SDK.
+
+## Experience
+- Microsoft, Software Engineer, M365 Substrate, Redmond WA (Nov 2020 – Apr 2024): C# SharePoint ingestion API (40% faster file processing), global rate-limiting availability (+20%), QPS analysis and dynamic shard feeding (+25% resource allocation), SCOPE big-data pipeline (+30% validation accuracy), on-call for 5 critical services at 99.9% uptime, mentored two interns.
+- Visa Inc., Software Engineer, Austin TX (Sep 2019 – Oct 2020): Python/Selenium automation (-50% test time), Go EBCDIC-to-ASCII converter (halved processing time), regression and volume testing.
+- Visa Inc., Software Engineer Intern, Austin TX (Jun – Sep 2018): Angular project tracker, D3.js/Chart.js dashboards, MongoDB schemas.
+
+## Education and recognition
+- M.S. Computer Science (Data Science), Seattle University, expected Spring 2027
+- Graduate Certificate in Computer Science, Seattle University, Dec 2025
+- B.S. Informatics, University of Washington, Jun 2019
+- Microsoft Patent Award, "Data Flow Control in Distributed Computing System", Jan 2022
+- Harvard Business School Online CORe, 2023
+
+## Pages
+- [Home](https://kidus.me/): experience, projects, skills, arts, contact
+- [About](https://kidus.me/about.html): background, bookshelf, coursework
+- [50 Limes](https://kidus.me/50limes.html): studio approach, products, engineering standards
+- [Resume (PDF)](https://kidus.me/assets/resume.pdf)
+
+## Contact
+- Email: kidussendeke@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kidus-sendeke/
+- GitHub: https://github.com/Kidusyohanes
