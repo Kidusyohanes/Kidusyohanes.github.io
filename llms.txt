@@ -1,6 +1,6 @@
 # Kidus Sendeke
 
-> Software engineer in Seattle, WA. Builds distributed systems and AI-enabled applications. Formerly Microsoft (M365 Substrate) and Visa. Founder of 50 Limes (፶ ሎሚ), a product studio. M.S. Computer Science (Data Science) candidate at Seattle University, graduating Spring 2027.
+> Software engineer in Seattle, WA. Builds distributed systems and AI-enabled applications. Formerly Microsoft (M365 Substrate) and Visa. Founder of 50 Limes (፶ ሎሚ), a product studio: https://50limes.com M.S. Computer Science (Data Science) candidate at Seattle University, graduating Spring 2027.
 
 ## Current
 - Software Engineer (contract via Blueprint Technologies) at Microsoft Philanthropies: full-stack, AI-enabled applications in C#/.NET, TypeScript, Azure OpenAI and the Microsoft Bot Builder SDK.
@@ -20,7 +20,8 @@
 ## Pages
 - [Home](https://kidus.me/): experience, projects, skills, arts, contact
 - [About](https://kidus.me/about.html): background, bookshelf, coursework
-- [50 Limes](https://kidus.me/50limes.html): studio approach, products, engineering standards
+- [50 Limes case study](https://kidus.me/50limes.html): studio approach, products, engineering standards
+- [50limes.com](https://50limes.com): the 50 Limes website
 - [Resume (PDF)](https://kidus.me/assets/resume.pdf)
 
 ## Contact
