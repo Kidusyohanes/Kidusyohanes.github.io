@@ -3,7 +3,7 @@
 > Software engineer in Seattle, WA. Builds distributed systems and AI-enabled applications. Formerly Microsoft (M365 Substrate) and Visa. Founder of 50 Limes (፶ ሎሚ), a product studio: https://50limes.com M.S. Computer Science (Data Science) candidate at Seattle University, graduating Spring 2027.
 
 ## Current
-- Software Engineer (contract via Blueprint Technologies) at Microsoft Philanthropies: full-stack, AI-enabled applications in C#/.NET, TypeScript, Azure OpenAI and the Microsoft Bot Builder SDK.
+- Software Engineer (contract) at Microsoft: full-stack, AI-enabled applications in C#/.NET, TypeScript, Azure OpenAI and the Microsoft Bot Builder SDK.
 
 ## Experience
 - Microsoft, Software Engineer, M365 Substrate, Redmond WA (Nov 2020 – Apr 2024): C# SharePoint ingestion API (40% faster file processing), global rate-limiting availability (+20%), QPS analysis and dynamic shard feeding (+25% resource allocation), SCOPE big-data pipeline (+30% validation accuracy), on-call for 5 critical services at 99.9% uptime, mentored two interns.
